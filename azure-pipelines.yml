@@ -19,4 +19,4 @@ steps:
     npm install
     npm run build
     npm test
-  displayName: 'Mr.TraDa: npm install, buil and test'
+  displayName: 'TraDa: npm install, buil and test'
